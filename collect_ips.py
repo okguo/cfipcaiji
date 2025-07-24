@@ -3,9 +3,9 @@ from bs4 import BeautifulSoup
 import re
 import os
 
-# 目标URL列表
-urls = ['https://cf.090227.xyz', 
-        'https://ip.164746.xyz'
+# 目标URL列表 https://ip.164746.xyz
+# 目标URL列表 https://cf.090227.xyz
+urls = ['https://cf.090227.xyz'
         ]
 
 # 正则表达式用于匹配IP地址
