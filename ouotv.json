@@ -2,7 +2,7 @@
   {
     "id":"1",
     "name":"电影天堂资源",
-    "url":"http://caiji.dyttzyapi.com/api.php/provide/vod",
+    "url":"http://caiji.dyttzyapi.com",
     "detailUrl":"http://caiji.dyttzyapi.com",
     "isEnabled":true
   },
