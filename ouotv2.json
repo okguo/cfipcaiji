@@ -1,17 +1,72 @@
-
 [
   {
-    "id":"1",
-    "name":"电影天堂资源",
-    "url":"http://caiji.dyttzyapi.com",
-    "detailUrl":"http://caiji.dyttzyapi.com",
-    "isEnabled":true
+    "id": "dyttzy",
+    "name": "电影天堂",
+    "url": "https://xzybb1.com/api.php/provide/vod",
+    "detailUrl": "http://caiji.dyttzyapi.com",
+    "isEnabled": true
   },
   {
-    "id":"heimuer",
-    "url":"https://json.heimuer.xyz",
-    "name":"黑木耳",
-    "detail":"https://heimuer.tv",
-    "isEnabled":true
+    "id": "ruyi",
+    "name": "如意资源",
+    "url": "https://gayapi.com/api.php/provide/vod",
+    "detailUrl": "https://gayapi.com/api.php/provide/vod",
+    "isEnabled": true
+  },
+  {
+    "id": "bfzy",
+    "name": "暴风资源",
+    "url": "https://91jpzyw.com/api.php/provide/vod",
+    "detailUrl": "https://91jpzyw.com/api.php/provide/vod",
+    "isEnabled": true
+  },
+  {
+    "id": "tyyszy",
+    "name": "天涯资源",
+    "url": "https://wukongzyz.com/api.php/provide/vod",
+    "detailUrl": "https://wukongzyz.com/api.php/provide/vod",
+    "isEnabled": true
+  },
+  {
+    "id": "ffzy",
+    "name": "非凡影视",
+    "url": "https://xzybb1.com/api.php/provide/vod",
+    "detailUrl": "http://ffzy5.tv",
+    "isEnabled": true
+  },
+  {
+    "id": "zy360",
+    "name": "360资源",
+    "url": "https://xingba111.com/api.php/provide/vod",
+    "detailUrl": "https://xingba111.com/api.php/provide/vod",
+    "isEnabled": true
+  },
+  {
+    "id": "maotaizy",
+    "name": "茅台资源",
+    "url": "https://hsckzy.vip/api.php/provide/vod",
+    "detailUrl": "https://hsckzy.vip/api.php/provide/vod",
+    "isEnabled": true
+  },
+  {
+    "id": "wolong",
+    "name": "卧龙资源",
+    "url": "https://www.xxibaozyw.com/api.php/provide/vod",
+    "detailUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
+    "isEnabled": true
+  },
+  {
+    "id": "jisu",
+    "name": "极速资源",
+    "url": "https://api.baiwanapi.com/api.php/provide/vod",
+    "detailUrl": "https://jszyapi.com",
+    "isEnabled": true
+  },
+  {
+    "id": "dbzy",
+    "name": "豆瓣资源",
+    "url": "https://apilsbzy1.com/api.php/provide/vod",
+    "detailUrl": "https://apilsbzy1.com/api.php/provide/vod",
+    "isEnabled": true
   }
 ]
